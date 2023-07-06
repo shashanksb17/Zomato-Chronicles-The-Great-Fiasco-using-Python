@@ -8,8 +8,8 @@
 4. Step-by-Step Explanation
 5. Conclusion
 
-### This is how to message-box looks like
-![Alt Text](https://github.com/johnsmith/my-project/raw/main/image.png)
+### This is how to message-box using tkinter looks like
+![message-box]([https://github.com/johnsmith/my-project/raw/main/image.png](https://github.com/shashanksb17/Zomato-Chronicles-The-Great-Fiasco-using-Python/blob/main/zesty_zomato.png))
 
 
 ### 1. Introduction

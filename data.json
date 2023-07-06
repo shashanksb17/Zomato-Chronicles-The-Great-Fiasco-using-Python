@@ -1,0 +1,1 @@
+{"menu": [{"dish_id": "1", "dish_name": "biryani", "price": 250.0, "availability": true}, {"dish_id": "2", "dish_name": "lassi", "price": 80.0, "availability": false}], "orders": {"1": {"customer_name": "sonu", "dishes": [{"dish_id": "1", "dish_name": "biryani", "price": 250.0, "availability": true}], "status": "true"}}}

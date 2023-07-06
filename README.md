@@ -13,6 +13,7 @@
 ![Markdown symbol](https://iili.io/Hiplpvs.jpg)  
 
 
+
 ### 1. Introduction
 The "Zomato Chronicles: The Great Food Fiasco" application is a command-line system developed using Python and incorporates core programming concepts such as conditional statements, loops, lists, and dictionaries. The application aims to help Zesty Zomato, a restaurant in Mumbai, manage their food delivery service more effectively and efficiently. The application allows Zesty Zomato staff to manage their menu, take orders from customers, update order status, and review all orders.
 

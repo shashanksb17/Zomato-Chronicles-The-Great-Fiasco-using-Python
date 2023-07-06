@@ -9,11 +9,9 @@
 5. Conclusion
 
 ### This is how to message-box using tkinter looks like
-<<<<<<< HEAD
-![Javatpoint](./zesty_zomato.png)
-=======
-![message-box]([https://github.com/johnsmith/my-project/raw/main/image.png](https://github.com/shashanksb17/Zomato-Chronicles-The-Great-Fiasco-using-Python/blob/main/zesty_zomato.png))
->>>>>>> cfa75e88a9ab2bc0885aed3eec7da264f5e03200
+
+![message-box](./zesty_zomato.png)
+
 
 
 ### 1. Introduction
